@@ -47,7 +47,7 @@
     "url": "https://github.com/pixijs/pixijs/issues"
   },
   "peerDependencies": {
-    "@pixi/assets": "7.4.3",
-    "@pixi/core": "7.4.3"
+    "@pixi/assets": "github:foundry-vtt-types/pixi-assets#main",
+    "@pixi/core": "github:foundry-vtt-types/pixi-core#main"
   }
 }
